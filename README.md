@@ -1,3 +1,3 @@
-# JavascriptFromScratch
+# JavaScript From Zero to Hero
 
-JavaScript From Zero to Hero
+

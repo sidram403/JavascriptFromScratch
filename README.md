@@ -87,7 +87,7 @@ for (var i = 0; i < 5; i++) {
 }
 ```
 
-#### This should give you a good starting point for learning JavaScript. There are many other concepts and features to explore, but mastering these basics will give you a strong foundation. Good luck!
+#### This should give you a good starting point for learning JavaScript. There are many other concepts and features to explore, but mastering these basics will give you a strong foundation.
 
 
 

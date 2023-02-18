@@ -164,6 +164,12 @@ try {
 ```
 #### These are just a few more concepts to add to your JavaScript toolkit. As you continue learning and practicing, you'll discover many more features and techniques that can help you create powerful and interactive web pages. Good luck on your JavaScript journey!
 
+# Contents in detail
+
+- #### [Variables in detail](/1_Variables/Variables_Docs.md)
+- #### [Data types in detail](/2_Datatypes/Datatypes_docs.md)
+
+
 
 
 

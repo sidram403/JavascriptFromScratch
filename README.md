@@ -167,7 +167,7 @@ try {
 # Contents in detail
 
 - #### [Variables in detail](/1_Variables/Variables_Docs.md)
-- #### [Data types in detail](/2_Datatypes/Datatypes_docs.md)
+- #### [Data types in detail](/2_Datatypes/Datatypes_Docs.md)
 
 
 

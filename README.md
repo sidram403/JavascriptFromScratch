@@ -169,7 +169,7 @@ try {
 - #### [Variables in detail](/1_Variables/Variables_Docs.md)
 - #### [Data types in detail](/2_Datatypes/Datatypes_Doc.md)
 - #### [Functions in detail](/3_Functions/Functions_Docs.md)
-- #### [Conditional Statements in detail](/2_Datatypes/Datatypes_Doc.md)
+- #### [Conditional Statements in detail](/4_Conditional_Statements/Conditional-statements.md)
 - #### [Loops in detail](/2_Datatypes/Datatypes_Doc.md)
 - #### [Arrays in detail](/2_Datatypes/Datatypes_Doc.md)
 - #### [DOM Manipulation in detail](/2_Datatypes/Datatypes_Doc.md)

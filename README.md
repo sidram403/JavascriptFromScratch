@@ -171,7 +171,7 @@ try {
 - #### [Functions in detail](/3_Functions/Functions_Docs.md)
 - #### [Conditional Statements in detail](/4_Conditional_Statements/Conditional-statements.md)
 - #### [Loops in detail](/5_Loops/Loops.md)
-- #### [Arrays in detail](/2_Datatypes/Datatypes_Doc.md)
+- #### [Arrays in detail](/6_Arrays/Arrays.md)
 - #### [DOM Manipulation in detail](/2_Datatypes/Datatypes_Doc.md)
 - #### [Events in detail](/2_Datatypes/Datatypes_Doc.md)
 - #### [Error Handling in detail](/2_Datatypes/Datatypes_Doc.md)

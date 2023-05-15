@@ -22,3 +22,22 @@ function maximumSubarr(arr){
 }
 
 console.log(maximumSubarr([8,-3,2,-3,-4,9]))
+
+// Optimized solution
+
+function MaximumSum(arr){
+    let sum = 0;
+    let maxSum = arr[0];
+    for(let i=0;i<arr.length;i++){
+        sum = sum + arr[i];
+        if(sum > maxSum){
+            maxSum = sum;
+        }
+        if(sum < 0){
+            sum = 0;
+        }
+    }
+    return maxSum;
+}
+
+console.log(MaximumSum([1,-2,3,2]))
